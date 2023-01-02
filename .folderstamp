@@ -1,0 +1,572 @@
+This folder: /media/daniella/B/git/PartidoVelho/Presentation.pptx@git
+
+  File: ./.folderstamp
+  Size: 70        	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443607     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:39:25.790712400 -0300
+Modify: 2023-01-02 13:39:25.794333500 -0300
+Change: 2023-01-02 13:39:25.794333500 -0300
+ Birth: -
+IPFS hash: QmVhqPLMPsi6yj8Eq1x2em3wKJiVh9LG3ZmJ2srT4xVx4C
+------------------------------
+  File: ./.git/config
+  Size: 50        	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443603     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:53.262394500 -0300
+Modify: 2023-01-02 13:38:53.257508700 -0300
+Change: 2023-01-02 13:38:53.257508700 -0300
+ Birth: -
+IPFS hash: QmRCdhLuCqhZ91NTcxSCfU1QXxV4CjkUdteiSfNPmsV7qH
+------------------------------
+  File: ./.git/description
+  Size: 73        	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443583     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:53.257304600 -0300
+Modify: 2023-01-02 13:38:53.257382300 -0300
+Change: 2023-01-02 13:38:53.257382300 -0300
+ Birth: -
+IPFS hash: Qmdy135ZFG4kUALkaMhr6Cy3VhhkxyAh264kyg3725x8be
+------------------------------
+  File: ./.git/HEAD
+  Size: 21        	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443577     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:53.262007600 -0300
+Modify: 2023-01-02 13:38:53.257246000 -0300
+Change: 2023-01-02 13:38:53.257246000 -0300
+ Birth: -
+IPFS hash: QmbRUdVtdtxcpdqyJE3iZwTJq7FPcXR1ErQRFB76sQCg9H
+------------------------------
+  File: ./.git/hooks/applypatch-msg.sample
+  Size: 478       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443569     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:53.256665400 -0300
+Modify: 2023-01-02 13:38:53.256727900 -0300
+Change: 2023-01-02 13:38:53.256727900 -0300
+ Birth: -
+IPFS hash: QmY2duvZ5Resxt8astYUgQ8RXQz1N9axe77gCb5j6M95Gf
+------------------------------
+  File: ./.git/hooks/commit-msg.sample
+  Size: 896       	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443567     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:53.256513400 -0300
+Modify: 2023-01-02 13:38:53.256586000 -0300
+Change: 2023-01-02 13:38:53.256586000 -0300
+ Birth: -
+IPFS hash: QmQbraCfKaCTZkqtdXCJPc11CWEiZGw1yYGwtbA6nbXWeh
+------------------------------
+  File: ./.git/hooks/fsmonitor-watchman.sample
+  Size: 4655      	Blocks: 16         IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443566     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:53.256338500 -0300
+Modify: 2023-01-02 13:38:53.256441800 -0300
+Change: 2023-01-02 13:38:53.256441800 -0300
+ Birth: -
+IPFS hash: QmNuzc8ypDCeoqfQffuasAjbdeFcj8o8kwuLq4eSUfYFkS
+------------------------------
+  File: ./.git/hooks/post-update.sample
+  Size: 189       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443565     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:53.256183800 -0300
+Modify: 2023-01-02 13:38:53.256227000 -0300
+Change: 2023-01-02 13:38:53.256227000 -0300
+ Birth: -
+IPFS hash: QmQjYxVj9iwitDGkmR48Cemr1JTgc6pvwo5cFkumNWqnjm
+------------------------------
+  File: ./.git/hooks/pre-applypatch.sample
+  Size: 424       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443564     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:53.256070200 -0300
+Modify: 2023-01-02 13:38:53.256115500 -0300
+Change: 2023-01-02 13:38:53.256115500 -0300
+ Birth: -
+IPFS hash: QmdzjzkpM31jTKd5YBJkWsbDXJeeW1Uy1UxVPwfKFxwy89
+------------------------------
+  File: ./.git/hooks/pre-commit.sample
+  Size: 1643      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443559     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:53.255817500 -0300
+Modify: 2023-01-02 13:38:53.255882800 -0300
+Change: 2023-01-02 13:38:53.255882800 -0300
+ Birth: -
+IPFS hash: QmY33NoK9jzqitkPK1QdWTnNQt7m6DsE4fYvyohjdbyfju
+------------------------------
+  File: ./.git/hooks/pre-merge-commit.sample
+  Size: 416       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443561     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:53.255953900 -0300
+Modify: 2023-01-02 13:38:53.256000700 -0300
+Change: 2023-01-02 13:38:53.256000700 -0300
+ Birth: -
+IPFS hash: QmPte81MJoXgCngK75SVZTn2DAXskuo9gdVr2uR5PfVVQE
+------------------------------
+  File: ./.git/hooks/pre-push.sample
+  Size: 1348      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443558     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:53.255682000 -0300
+Modify: 2023-01-02 13:38:53.255747600 -0300
+Change: 2023-01-02 13:38:53.255747600 -0300
+ Birth: -
+IPFS hash: QmXprUtrWGYLRETUvuA89HjwUGdufGrwJxYaXyGwQ7TMvQ
+------------------------------
+  File: ./.git/hooks/pre-rebase.sample
+  Size: 4850      	Blocks: 16         IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443557     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:53.255412200 -0300
+Modify: 2023-01-02 13:38:53.255608100 -0300
+Change: 2023-01-02 13:38:53.255608100 -0300
+ Birth: -
+IPFS hash: QmfUUWWehKQYqGWXi32pzS9iPaSMiMTTB9uZHzpmZ3Z87x
+------------------------------
+  File: ./.git/hooks/pre-receive.sample
+  Size: 544       	Blocks: 2          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443556     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:53.255209700 -0300
+Modify: 2023-01-02 13:38:53.255296800 -0300
+Change: 2023-01-02 13:38:53.255296800 -0300
+ Birth: -
+IPFS hash: QmRKbU9DFRNWjR1UwV4nC6MXPnrNanfsBM5579t4HLUuig
+------------------------------
+  File: ./.git/hooks/prepare-commit-msg.sample
+  Size: 1492      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443554     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:53.254945600 -0300
+Modify: 2023-01-02 13:38:53.255088400 -0300
+Change: 2023-01-02 13:38:53.255088400 -0300
+ Birth: -
+IPFS hash: QmPku8ai5p4sSCDHe19n9Ekfo21xM5urFdkq9Rg1wBHjcV
+------------------------------
+  File: ./.git/hooks/update.sample
+  Size: 3635      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443553     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:53.254655200 -0300
+Modify: 2023-01-02 13:38:53.254824400 -0300
+Change: 2023-01-02 13:38:53.254824400 -0300
+ Birth: -
+IPFS hash: QmV7QB3DHmN59g58DH4YFJMSsFsUCdc9PHK1uAdq2wk1wH
+------------------------------
+  File: ./.git/info/exclude
+  Size: 240       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443550     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:53.281301100 -0300
+Modify: 2023-01-02 13:38:53.254376100 -0300
+Change: 2023-01-02 13:38:53.254376100 -0300
+ Birth: -
+IPFS hash: QmcfzxUpw36y8fu2GR3s7Vgq7RBgooKtc6BgsqFnadsDLc
+------------------------------
+  File: ./docProps/app.xml
+  Size: 1360      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443539     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.479937500 -0300
+ Birth: -
+IPFS hash: QmV416hy1rihGNDXxjoNdbMw61Zz6fdK9Jh5KVQRHFNyJT
+------------------------------
+  File: ./docProps/core.xml
+  Size: 699       	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443540     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.480990700 -0300
+ Birth: -
+IPFS hash: QmPRQGfciog5QbQqQJMTLzbQ8UNHLuKWJ3j7ng4b1xLB65
+------------------------------
+  File: ./docProps/thumbnail.jpeg
+  Size: 4732      	Blocks: 16         IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443533     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.474399100 -0300
+ Birth: -
+IPFS hash: Qmeb89XceqnwrtUJv8cvwaRsBBxYYHMew62xkE8LdLLCqo
+------------------------------
+  File: ./folderstamp_recursive.sh
+  Size: 2365      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443606     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:39:25.790250600 -0300
+Modify: 2022-11-22 18:45:33.375753300 -0300
+Change: 2023-01-02 13:39:17.312616900 -0300
+ Birth: -
+IPFS hash: QmRmYGZyeoWY4jHLex4didmsviDWE3BDhMjuRicfENGBm2
+------------------------------
+  File: ./ppt/media/image1.png
+  Size: 12181     	Blocks: 24         IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443535     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.475775800 -0300
+ Birth: -
+IPFS hash: QmXYjccLNzUPPZ5nzSBERpV6TDt7MNU3HAEXtkm6MgNsvS
+------------------------------
+  File: ./ppt/presentation.xml
+  Size: 3212      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1442845     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.428542500 -0300
+ Birth: -
+IPFS hash: QmRoi3CJW6trB59KDykUfMude7TAV9WDeE6S2ozpqrEB5i
+------------------------------
+  File: ./ppt/presProps.xml
+  Size: 889       	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443536     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.476909300 -0300
+ Birth: -
+IPFS hash: QmeBr9V6Yyo8THd9aK7zsg777zZfJJs5Xm9DmpJTENiT3e
+------------------------------
+  File: ./ppt/slideLayouts/slideLayout1.xml
+  Size: 4734      	Blocks: 16         IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443465     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.439880700 -0300
+ Birth: -
+IPFS hash: Qma5P53ij7o41PcRfFmKyppu3eAXF3d6JsThSUo5M2Vxes
+------------------------------
+  File: ./ppt/slideLayouts/slideLayout10.xml
+  Size: 4031      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443495     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.451964100 -0300
+ Birth: -
+IPFS hash: QmbVa4y4iAU9bsxPk3eSHkk15d91NT9pmEhfrkqYdbPz8D
+------------------------------
+  File: ./ppt/slideLayouts/slideLayout11.xml
+  Size: 4256      	Blocks: 16         IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443496     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.453202300 -0300
+ Birth: -
+IPFS hash: QmS6ZExD6XM8eDst3JLSVrNxUfa7aVgijRpzDzTcywXdLs
+------------------------------
+  File: ./ppt/slideLayouts/slideLayout2.xml
+  Size: 3977      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443466     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.441665800 -0300
+ Birth: -
+IPFS hash: QmTv7kRZ9ChzZmnMyEhdYefskHVykqLqtYKqj6ZtSHbF4w
+------------------------------
+  File: ./ppt/slideLayouts/slideLayout3.xml
+  Size: 5470      	Blocks: 16         IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443467     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.442833100 -0300
+ Birth: -
+IPFS hash: QmVUTUktwgtY9fdawgfj5bG8ZWWPinjRTCQAEVbwnQqVMn
+------------------------------
+  File: ./ppt/slideLayouts/slideLayout4.xml
+  Size: 5059      	Blocks: 16         IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443468     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.444618800 -0300
+ Birth: -
+IPFS hash: QmNj73RjBGaK2tmjMWHHhAAue4at4vzbPxspBTx8jmsFUj
+------------------------------
+  File: ./ppt/slideLayouts/slideLayout5.xml
+  Size: 8022      	Blocks: 16         IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443469     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.445907300 -0300
+ Birth: -
+IPFS hash: QmXskheVBzJHAi47MfFfx83MzSWA4rUUp4GCgGnhsX7yfw
+------------------------------
+  File: ./ppt/slideLayouts/slideLayout6.xml
+  Size: 3092      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443470     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.447030500 -0300
+ Birth: -
+IPFS hash: QmZUta6SgGAznsWYGwGdfG5xqG7yo82Vqa8G4PHCZ8fu8c
+------------------------------
+  File: ./ppt/slideLayouts/slideLayout7.xml
+  Size: 2549      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443471     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.448171400 -0300
+ Birth: -
+IPFS hash: QmYcTumD8xSWCXcVJwHapnKCsJEBkFmH6WFfmmhJP1ic1S
+------------------------------
+  File: ./ppt/slideLayouts/slideLayout8.xml
+  Size: 6008      	Blocks: 16         IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443472     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.449445700 -0300
+ Birth: -
+IPFS hash: QmQ6K9xDhGdymFKyHcBxjEvENHZPvhVP7nTmBDfDMXvdUF
+------------------------------
+  File: ./ppt/slideLayouts/slideLayout9.xml
+  Size: 5927      	Blocks: 16         IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443479     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.450691500 -0300
+ Birth: -
+IPFS hash: QmUtveQh3qogg6gN19A74cqT65N8meUq8BpijoiopkXroS
+------------------------------
+  File: ./ppt/slideLayouts/_rels/slideLayout1.xml.rels
+  Size: 311       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443500     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.455690900 -0300
+ Birth: -
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./ppt/slideLayouts/_rels/slideLayout10.xml.rels
+  Size: 311       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443528     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.470221500 -0300
+ Birth: -
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./ppt/slideLayouts/_rels/slideLayout11.xml.rels
+  Size: 311       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443529     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.471547900 -0300
+ Birth: -
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./ppt/slideLayouts/_rels/slideLayout2.xml.rels
+  Size: 311       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443501     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.456997100 -0300
+ Birth: -
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./ppt/slideLayouts/_rels/slideLayout3.xml.rels
+  Size: 311       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443502     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.458652600 -0300
+ Birth: -
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./ppt/slideLayouts/_rels/slideLayout4.xml.rels
+  Size: 311       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443503     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.460350500 -0300
+ Birth: -
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./ppt/slideLayouts/_rels/slideLayout5.xml.rels
+  Size: 311       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443504     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.462196800 -0300
+ Birth: -
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./ppt/slideLayouts/_rels/slideLayout6.xml.rels
+  Size: 311       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443506     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.464048000 -0300
+ Birth: -
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./ppt/slideLayouts/_rels/slideLayout7.xml.rels
+  Size: 311       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443511     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.465671500 -0300
+ Birth: -
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./ppt/slideLayouts/_rels/slideLayout8.xml.rels
+  Size: 311       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443512     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.467099200 -0300
+ Birth: -
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./ppt/slideLayouts/_rels/slideLayout9.xml.rels
+  Size: 311       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443527     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.468792500 -0300
+ Birth: -
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./ppt/slideMasters/slideMaster1.xml
+  Size: 13932     	Blocks: 32         IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443463     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.437273200 -0300
+ Birth: -
+IPFS hash: QmVDQiiTFBzXJaEKGwqEkkeLGdLicmGFsah8ySETBcbGTT
+------------------------------
+  File: ./ppt/slideMasters/_rels/slideMaster1.xml.rels
+  Size: 1991      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443498     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.454436900 -0300
+ Birth: -
+IPFS hash: QmfCZiASqmbf8PM2NrVXohWrAaXFeNnmraJACJzFGfgZt3
+------------------------------
+  File: ./ppt/slides/slide1.xml
+  Size: 7894      	Blocks: 16         IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1442847     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.430520400 -0300
+ Birth: -
+IPFS hash: QmQ58sLBJ4Uip6GDi9hhCCsHvQcftNpPfhEFucdeHYpCe4
+------------------------------
+  File: ./ppt/slides/_rels/slide1.xml.rels
+  Size: 446       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443461     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.434764100 -0300
+ Birth: -
+IPFS hash: QmWCYPzt3BYEEtUqumfDPcZjuNQeZLDPMhhzKF7EjBcaeq
+------------------------------
+  File: ./ppt/tableStyles.xml
+  Size: 182       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443538     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.478948500 -0300
+ Birth: -
+IPFS hash: QmWaFnWwPvw6bqxTonH1EBW7u8Kt62LiG8tLa1yBsDagYj
+------------------------------
+  File: ./ppt/theme/theme1.xml
+  Size: 8399      	Blocks: 24         IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443531     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.473167200 -0300
+ Birth: -
+IPFS hash: QmZ6Tm6qFEvwXQGdgQfcwwDon99bwVyJyaAvxZgXPmzvbG
+------------------------------
+  File: ./ppt/viewProps.xml
+  Size: 811       	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443537     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.477913100 -0300
+ Birth: -
+IPFS hash: QmWkDqLUVDdBGrrrnSCR9HB34UmwwoHAQCuaHQ7niV7ZQk
+------------------------------
+  File: ./ppt/_rels/presentation.xml.rels
+  Size: 976       	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1442850     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.432521400 -0300
+ Birth: -
+IPFS hash: QmTMd89XsJ7T4BvUqTx77JhsgaM7yQWsCX6DAKC6NwX5s4
+------------------------------
+  File: ./Presentation.pptx
+  Size: 49498     	Blocks: 104        IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1443605     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 12:14:43.388442500 -0300
+Modify: 2023-01-02 12:14:13.786917100 -0300
+Change: 2023-01-02 13:39:05.568397500 -0300
+ Birth: -
+IPFS hash: QmPRomoyQMcAcXS8weH3BJoUxQ792xCi1FfKwhz1uFfG3V
+------------------------------
+  File: ./[Content_Types].xml
+  Size: 3192      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1442841     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.154278600 -0300
+ Birth: -
+IPFS hash: QmeRvCc8mDkSVh7mmeoebLvmwaUBs2bV5xecCMW3SN88GV
+------------------------------
+  File: ./_rels/.rels
+  Size: 738       	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1442843     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-02 13:38:33.000000000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2023-01-02 13:38:33.155512900 -0300
+ Birth: -
+IPFS hash: QmYDVhPDJjXnhCCuCAiMd2ytA9hPP7LgoawRJ3kvAcWjJD
+------------------------------
